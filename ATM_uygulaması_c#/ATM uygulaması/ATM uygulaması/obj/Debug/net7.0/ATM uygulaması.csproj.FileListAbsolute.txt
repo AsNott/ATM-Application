@@ -1,0 +1,15 @@
+C:\Users\ncskn\Desktop\Yazılım Dosyası\Projelerim\ATM_uygulaması_c#\ATM uygulaması\ATM uygulaması\obj\Debug\net7.0\ATM uygulaması.csproj.AssemblyReference.cache
+C:\Users\ncskn\Desktop\Yazılım Dosyası\Projelerim\ATM_uygulaması_c#\ATM uygulaması\ATM uygulaması\obj\Debug\net7.0\ATM uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ncskn\Desktop\Yazılım Dosyası\Projelerim\ATM_uygulaması_c#\ATM uygulaması\ATM uygulaması\obj\Debug\net7.0\ATM uygulaması.AssemblyInfoInputs.cache
+C:\Users\ncskn\Desktop\Yazılım Dosyası\Projelerim\ATM_uygulaması_c#\ATM uygulaması\ATM uygulaması\obj\Debug\net7.0\ATM uygulaması.AssemblyInfo.cs
+C:\Users\ncskn\Desktop\Yazılım Dosyası\Projelerim\ATM_uygulaması_c#\ATM uygulaması\ATM uygulaması\obj\Debug\net7.0\ATM uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ncskn\Desktop\Yazılım Dosyası\Projelerim\ATM_uygulaması_c#\ATM uygulaması\ATM uygulaması\bin\Debug\net7.0\ATM uygulaması.exe
+C:\Users\ncskn\Desktop\Yazılım Dosyası\Projelerim\ATM_uygulaması_c#\ATM uygulaması\ATM uygulaması\bin\Debug\net7.0\ATM uygulaması.deps.json
+C:\Users\ncskn\Desktop\Yazılım Dosyası\Projelerim\ATM_uygulaması_c#\ATM uygulaması\ATM uygulaması\bin\Debug\net7.0\ATM uygulaması.runtimeconfig.json
+C:\Users\ncskn\Desktop\Yazılım Dosyası\Projelerim\ATM_uygulaması_c#\ATM uygulaması\ATM uygulaması\bin\Debug\net7.0\ATM uygulaması.dll
+C:\Users\ncskn\Desktop\Yazılım Dosyası\Projelerim\ATM_uygulaması_c#\ATM uygulaması\ATM uygulaması\bin\Debug\net7.0\ATM uygulaması.pdb
+C:\Users\ncskn\Desktop\Yazılım Dosyası\Projelerim\ATM_uygulaması_c#\ATM uygulaması\ATM uygulaması\obj\Debug\net7.0\ATM uygulaması.dll
+C:\Users\ncskn\Desktop\Yazılım Dosyası\Projelerim\ATM_uygulaması_c#\ATM uygulaması\ATM uygulaması\obj\Debug\net7.0\refint\ATM uygulaması.dll
+C:\Users\ncskn\Desktop\Yazılım Dosyası\Projelerim\ATM_uygulaması_c#\ATM uygulaması\ATM uygulaması\obj\Debug\net7.0\ATM uygulaması.pdb
+C:\Users\ncskn\Desktop\Yazılım Dosyası\Projelerim\ATM_uygulaması_c#\ATM uygulaması\ATM uygulaması\obj\Debug\net7.0\ATM uygulaması.genruntimeconfig.cache
+C:\Users\ncskn\Desktop\Yazılım Dosyası\Projelerim\ATM_uygulaması_c#\ATM uygulaması\ATM uygulaması\obj\Debug\net7.0\ref\ATM uygulaması.dll
